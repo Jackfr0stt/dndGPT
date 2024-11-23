@@ -1,1 +1,1 @@
-# dndGPT
+# DnD GPT
