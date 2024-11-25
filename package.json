@@ -1,0 +1,15 @@
+{
+  "name": "dndgpt",
+  "version": "1.0.0",
+  "description": "This repo is meant to create a service for interactions with a GPT assistant that has direct connection to a Notion workspace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jackfr0stt",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.3.3"
+  }
+}
